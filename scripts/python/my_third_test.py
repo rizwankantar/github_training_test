@@ -1,1 +1,1 @@
-This is my third test python file
+print("This is my third test python file")
